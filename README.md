@@ -1,5 +1,7 @@
 # SWRevealViewController
 
+通用侧滑栏 类似QQ侧滑栏
+
 A UIViewController subclass for revealing a rear (left and/or right) view controller behind a front controller, inspired by the Facebook app, done right!
 
 
